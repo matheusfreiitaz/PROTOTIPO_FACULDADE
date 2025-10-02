@@ -35,7 +35,7 @@ SQL (MySQL, PostgreSQL)
 NoSQL (MongoDB)
 ORMs
 
-Otimização de queries
+##Otimização de queries
 
 📝 Como Uso Este Repositório
 
@@ -45,3 +45,32 @@ Incluo exemplos de código
 Adiciono anotações importantes
 Listo recursos úteis
 Registro dificuldades e soluções
+
+
+## 🚀 Projetos Práticos
+
+Mantenho uma pasta dedicada para pequenos projetos que demonstram conceitos específicos aprendidos.
+
+## 📊 Metas de Aprendizado
+
+- [ ] Dominar fundamentos de JavaScript
+- [ ] Aprender React.js
+- [ ] Entender APIs RESTful
+- [ ] Praticar algoritmos
+- [ ] Desenvolver projeto full-stack
+
+## 🔄 Revisão Periódica
+
+- Reviso o conteúdo a cada 2 semanas
+- Atualizo conceitos com novas descobertas
+- Adiciono novos exemplos e projetos
+
+## 🤝 Contribuição
+
+Embora seja um repositório pessoal, sugestões e correções são bem-vindas!
+
+
+
+"A documentação do aprendizado é a ponte entre o conhecimento adquirido e a sabedoria aplicada."
+
+⭐ Sinta-se à vontade para usar esta estrutura como inspiração para seu próprio repositório de aprendizado!
