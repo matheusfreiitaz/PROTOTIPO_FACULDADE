@@ -1,0 +1,67 @@
+/* ===== Botão principal ===== */
+#botao {
+  display: block;
+  width: 100%;
+  max-width: 400px;
+  margin: 20px auto; /* centraliza */
+  padding: 15px 0;
+  
+  background-color: #3B82F6; /* azul principal */
+  color: #ffffff; /* texto branco */
+  font-size: 1.1rem;
+  font-weight: 600;
+  border: 2px solid #1E40AF; /* azul mais escuro para contraste */
+  border-radius: 12px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+/* Efeito ao passar o mouse */
+#botao:hover {
+  background-color: #2563EB; /* azul mais forte */
+  transform: scale(1.02); /* leve aumento visual */
+}
+
+/* ===== Container principal ===== */
+div {
+  text-align: center;
+  border: 2px solid #CBD5E1; /* cinza suave */
+  border-radius: 12px;
+  background-color: #F8FAFC;
+  padding: 30px;
+  max-width: 500px;
+  margin: 40px auto; /* centraliza na tela */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.08); /* leve sombra */
+}
+
+/* ===== Lista de tarefas ===== */
+#lista {
+  background-color: #FFFFFF;
+  padding: 20px;
+  margin-top: 25px;
+  border: 1px solid #E2E8F0;
+  border-radius: 10px;
+  text-align: left;
+  min-height: 100px; /* garante espaço mesmo sem tarefas */
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+
+}
+
+/* ===== Campo de texto ===== */
+#novaTarefa {
+  display: block;
+  width: 100%;
+  padding: 12px 15px;
+  margin-bottom: 15px;
+  border-radius: 10px;
+  border: 2px solid #CBD5E1;
+  font-size: 1rem;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Foco no campo de digitação */
+#novaTarefa:focus {
+  border-color: #3B82F6;
+  box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.3);
+}
