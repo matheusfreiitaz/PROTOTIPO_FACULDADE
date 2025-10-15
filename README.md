@@ -1,4 +1,4 @@
-📚 Meu Histórico de Aprendizado
+**📚 Meu Histórico de Aprendizado
 Um repositório para documentar minha jornada de aprendizado em programação e desenvolvimento. Serve como um diário técnico e material de consulta para revisões futuras.
 
 🎯 Objetivo
@@ -74,3 +74,4 @@ Embora seja um repositório pessoal, sugestões e correções são bem-vindas!
 "A documentação do aprendizado é a ponte entre o conhecimento adquirido e a sabedoria aplicada."
 
 ⭐ Sinta-se à vontade para usar esta estrutura como inspiração para seu próprio repositório de aprendizado!
+**
