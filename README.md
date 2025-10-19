@@ -9,7 +9,7 @@ Servir como material de revisão
 Acompanhar minha evolução técnica
 Compartilhar conhecimento com outros desenvolvedores
 
-🗂️ Organização por Áreas
+🗂️ Organização por Áreas 
 
 🏗️ Fundamentos
 Lógica de programação
