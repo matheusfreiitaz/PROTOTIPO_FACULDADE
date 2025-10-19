@@ -11,7 +11,7 @@ Compartilhar conhecimento com outros desenvolvedores
 
 🗂️ Organização por Áreas  
  
-🏗️ Fundamentos
+🏗️ Fundamentos 
 Lógica de programação
 Algoritmos e estruturas de dados
 Git e controle de versão
