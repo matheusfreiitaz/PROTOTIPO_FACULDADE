@@ -16,7 +16,7 @@ Lógica de programação
 Algoritmos e estruturas de dados
 Git e controle de versão
 Linha de comando
-
+  
 🎨 Frontend
 HTML5 e CSS3
 JavaScript (ES6+)
