@@ -3,7 +3,7 @@ Um repositório para documentar minha jornada de aprendizado em programação e 
  
 🎯 Objetivo 
 Este repositório tem como objetivo: 
-Documentar conceitos aprendidos
+Documentar conceitos aprendidos 
 Criar um histórico para consultas futuras 
 Servir como material de revisão
 Acompanhar minha evolução técnica  
