@@ -8,5 +8,6 @@ function adicionar1 (){
     novoValor.textContent = adicionarTarefa
     lista.appendChild(novoValor)
     tarefas.value ="";
-}
+} 
+
 adicionar.addEventListener('click',adicionar1)
