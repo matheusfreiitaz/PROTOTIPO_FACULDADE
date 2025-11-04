@@ -14,7 +14,7 @@ Compartilhar conhecimento com outros desenvolvedores
 🏗️ Fundamentos   
 Lógica de programação   
 Algoritmos e estruturas de dados
-Git e controle de versão
+Git e controle de versão 
 Linha de comando
   
 🎨 Frontend
