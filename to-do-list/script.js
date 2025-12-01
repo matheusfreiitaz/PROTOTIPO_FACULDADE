@@ -1,6 +1,6 @@
 const botao = document.getElementById("botao")
 const lista= document.getElementById("lista")
-const tarefa= document.getElementById("novaTarefa")
+const tarefa= document.getElementById("novaTarefa") 
 
 function adicionar(){
     const base =tarefa.value; 
@@ -11,6 +11,7 @@ function adicionar(){
    
 }
 botao.addEventListener('click',adicionar)
+
 
 
 
