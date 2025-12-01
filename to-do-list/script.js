@@ -6,11 +6,12 @@ function adicionar(){
     const base =tarefa.value;  
     const novoValor =document.createElement("div")
     novoValor.textContent= base;
-    lista.appendChild(novoValor)
+    lista.appendChild(novoValor) 
     tarefa.value="";
    
 }
 botao.addEventListener('click',adicionar)
+
 
 
 
