@@ -7,10 +7,11 @@ function adicionar1 (){
     const novoValor = document.createElement("li")   
     novoValor.textContent = adicionarTarefa
     lista.appendChild(novoValor)
-    tarefas.value ="";  
+    tarefas.value ="";   
 } 
 
 adicionar.addEventListener('click',adicionar1)
+
 
 
 
