@@ -6,7 +6,7 @@ public class CaixaEletronica {
         double valorSolicitado= 10.0;
    
         if(valorSolicitado < saldo ){
-            saldo = saldo - valorSolicitado;
+            saldo = saldo - valorSolicitado; 
         System.out.println("Transferência Realizada !"); 
     }else { 
         System.out.println("Sem Saldo !");
